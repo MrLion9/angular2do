@@ -1,0 +1,11 @@
+#todos .item{
+    display:flex;
+    align-items: center;
+}
+
+#todos .completed{
+    text-decoration: line-through;
+}
+#todos .button{
+    margin-left: auto;
+}
